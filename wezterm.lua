@@ -11,6 +11,8 @@ config.color_scheme = 'Dracula (Official)'
 
 config.default_prog = { 'pwsh.exe' }
 
+config.window_background_opacity = 0.9
+
 local keys = {}
 
 -- Ctrl + 1 to Ctrl + 9 to switch tabs
